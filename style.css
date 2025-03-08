@@ -11,5 +11,28 @@ h2 {
 }
 
 body {
+  width: 40rem;
   background-color: #FFEFEF;
+  margin: 0 auto;
+}
+
+.nabidka {
+  text-align: center;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+
+img {
+  width: 100%;
+}
+
+main {
+  background-color: white;
 }
