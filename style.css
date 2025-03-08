@@ -11,7 +11,7 @@ h2 {
 }
 
 body {
-  width: 40rem;
+  width: 60rem;
   background-color: #FFEFEF;
   margin: 0 auto;
 }
@@ -35,4 +35,22 @@ img {
 
 main {
   background-color: white;
+  padding: 10px;
+}
+
+.two {
+  display: flex;
+  gap: 20px;
+}
+
+.text {
+  width: 50%;
+}
+
+.recept {
+  display: flex;
+}
+
+.btn {
+  background-color: #FFEFEF;
 }
